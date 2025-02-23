@@ -19,4 +19,5 @@ jobs:
       with:
         builtin: clear,en-GB_to_en-US
         exclude_file: .github/workflows/lines.exclude
+        skip: data/language.txt
         skip: copyright

@@ -566,7 +566,6 @@ planet Wellas
 ############################## GETTA
 system Getta
 	government Iltan
-	attributes
 	pos -7228 -4080
 		link "Wellani' Ru'"
 		link Cheg
@@ -576,7 +575,6 @@ system Getta
 ############################## CHEG
 system Cheg
 	government Iltan
-	attributes
 	pos -7342 -4045
 		link Getta
 		
@@ -585,7 +583,6 @@ system Cheg
 ############################## IGBA' JEYA'
 system "Igba' Jeya'"
 	government Iltan
-	attributes
 	pos -7030 -4030
 	link "Wellani' Ru'"
 
